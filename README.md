@@ -4,16 +4,16 @@
 
 ## You can go to live versions with these links
 
-### Deplace Maison clone: https://lorem-maison.glitch.me/
+### <a href="https://lorem-maison.glitch.me/" target="_blank">Deplace Maison clone</a>
 
-### Monster Cat clone: https://monster-mat.glitch.me/
+### <a href="https://monster-mat.glitch.me/" target="_blank">Monster Cat clone</a>
 
-### Qrates clone: https://mrates.glitch.me/
+### <a href="https://mrates.glitch.me/" target="_blank">Qrates clone</a>
 
-### Canal Street clone: https://lorem-street-market.glitch.me/
+### <a href="https://lorem-street-market.glitch.me/" target="_blank">Canal Street clone</a>
 
-### Monogrom clone: https://loregram.glitch.me/
+### <a href="https://loregram.glitch.me/" target="_blank">Monogrom clone</a>
 
-### Ableton clone: https://loreton.glitch.me/
+### <a href="https://loreton.glitch.me/" target="_blank">Ableton clone</a>
 
-### Startbucks Reward clone: https://mtarbucks.glitch.me/
+### <a href="https://mtarbucks.glitch.me/" target="_blank">Startbucks Reward clone</a>
